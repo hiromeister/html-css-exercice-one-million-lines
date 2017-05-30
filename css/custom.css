@@ -1,0 +1,249 @@
+body{
+	margin:0 auto;
+	font-family: 'Arvo';
+
+
+}
+
+
+nav {
+
+	background-image:url("../images/top-logo.png");
+	background-repeat: no-repeat;
+	background-position: 120px 15px;
+	top:-20px;
+	height: 52px;
+	background-color:black;
+	margin:0 auto;
+	
+}
+
+nav ul {
+	color:white;
+	float:right;
+	padding-right: 100px;
+	
+}
+
+nav ul li{
+	display:inline;
+    padding-left: 10px;
+    text-transform: uppercase;
+    font-size: 14px;
+    color:#9d9d9d;
+    font-weight: bold;
+
+
+}
+
+
+#home{
+	background-image: url(../images/hero-image.jpg);
+	height:660px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+.container {
+	margin:0 auto;
+	width:960px;
+	height: 660px;
+	text-align: center;
+
+
+}
+
+h1{
+	color:white;
+	font-size: 70px;
+	margin: 0 auto;
+	padding-top: 54px;
+
+}
+
+p{
+	text-align: center;
+	padding-top: 20px;
+}
+
+span{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+p, span{
+	color:white;
+	font-size:18px;
+}
+
+.button{
+	background-color:#d9534f;
+	border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:3px;
+    height: 70px;
+    width: 245px;
+    font-weight: bold;
+    font-size:30px;
+}
+
+.code{
+	color:transparent;
+	background-image:url("../images/code.png");
+	margin:31px auto;
+	padding-top: 50px;
+	background-repeat: no-repeat;
+	height: 87px;
+	width: 87px;
+}
+
+
+#who{
+	wi
+
+}
+
+#who .container{	
+	width:1220px;
+	
+	height: 399px;
+	margin : 0 auto;
+}
+
+
+.academy{
+	color:transparent;
+	margin : 10px auto;
+	padding-top: 30px;
+	background-image:url(../images/academy-brand-med.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	height:150px;
+	width: 150px;
+}
+
+h3{
+	text-align:center;
+	color:#e74c3c;
+	margin:0 auto;
+	text-transform: uppercase;
+	font-size: 30px;
+	
+}
+
+hr{
+	width:150px;
+	height:1px;
+	border: 0;
+    border-top: 1px solid #e74c3c;
+   }
+
+   #who .container p {
+	color:black;
+	
+	font-weight: normal;
+	}
+
+	#who .container p span{
+	color:#e8584b;
+	text-transform: none;
+	font-weight: normal;
+}
+
+#get-involved{
+	height: 495px;
+	background-color:#f5f5f5;
+	margin: 0 auto;
+}
+
+#get-involved .container h3{
+	padding-top: 54px;
+
+}
+
+
+#get-involved .container{
+   width: 1220px;
+   text-align: center;
+   margin:0 auto;
+
+
+   	
+}
+
+.three{
+	margin: 0 auto;
+	padding-top:155px;
+}
+
+
+.circle1,
+{
+  background-color:#333333;
+  border-radius:50%;
+  width:130px;
+  height:130px;
+  border:2px solid #333333;
+  color:transparent; 
+  position: center;
+}
+
+
+.students,
+.educators,
+.sponsors{
+	width:360px;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+
+
+
+#get-involved .container p{
+	color:black;
+}
+
+h4{
+	color:#e74c3c;
+	margin:0 auto;
+	text-transform: uppercase;
+	font-size: 24px;
+}
+
+
+
+
+
+
+/* footer */
+
+#end{
+	height :238px;
+	background-color:#f74c3c;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#end .container{
+	width: 960px;
+	margin: 0 auto;
+}
+
+#end .container p{
+	color:transparent;
+	background-image: url(../images/one-million-bottom-brand.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+}
+
+	
